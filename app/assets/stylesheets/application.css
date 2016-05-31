@@ -1,4 +1,5 @@
 /*
+<<<<<<< HEAD
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
  *
@@ -13,3 +14,9 @@
  *= require_self
  *= require links
  */
+=======
+*= require bootstrap-addon
+*= require pages
+*= require hidden_styles
+*/
+>>>>>>> 76a95f8d9afd38253729d9181e52d38cdbebe26e
