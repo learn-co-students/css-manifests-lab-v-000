@@ -2,9 +2,13 @@
 <html>
 <head>
   <title>Admin Layout</title>
+  <%= stylesheet_link_tag 'admin' %>
+  <%= stylesheet_link_tag 'posts', media: 'all', 'data-turbolinks-track' => true  %>
   <%= csrf_meta_tags %>
+
 </head>
 <body>
+<div class="color">Color red</div>
 
 <%= yield %>
 
