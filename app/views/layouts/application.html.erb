@@ -2,11 +2,13 @@
 <html>
 <head>
   <title>Application Layout</title>
+  <%= stylesheet_link_tag 'application' %>
+  <%= stylesheet_link_tag 'posts' %>
   <%= csrf_meta_tags %>
 </head>
 <body>
 
-<%= yield %>
+  <%= yield %>
 
 </body>
 </html>
