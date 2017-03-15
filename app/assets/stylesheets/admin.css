@@ -1,0 +1,9 @@
+
+/*
+
+ *= require_tree .
+ *= require_self
+ *= require bootstrap-addon
+ *= require jquery-addon 
+ *= require blogs
+ */
