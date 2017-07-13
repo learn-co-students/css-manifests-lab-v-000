@@ -11,3 +11,4 @@ Rails.application.config.assets.precompile += %w( learn.js )
 # Rails.application.config.assets.precompile += %w( search.js )
 
 Rails.application.config.assets.precompile += %w( admin.css )
+Rails.application.config.assets.precompile += %w( posts.css )
