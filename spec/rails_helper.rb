@@ -36,10 +36,16 @@ RSpec.configure do |config|
   #
   # The different available types are documented in the features, such as in
   # https://relishapp.com/rspec/rspec-rails/docs
-  config.infer_spec_type_from_file_location!
+
+  # /home/rebecca/code/labs/css-manifests-lab-v-000/spec/rails_helper.rb:39:in `block in <top (required)>': undefined method `infer_spec_type_from_file_location!' for #<RSpec::Core::Configuration:0x0000000189b150> (NoMethodError)
+  
+  # config.infer_spec_type_from_file_location!
 
   # Filter lines from Rails gems in backtraces.
-  config.filter_rails_from_backtrace!
+
+  # /home/rebecca/code/labs/css-manifests-lab-v-000/spec/rails_helper.rb:42:in `block in <top (required)>': undefined method `filter_rails_from_backtrace!' for #<RSpec::Core::Configuration:0x000000012cc030> (NoMethodError)
+
+  # config.filter_rails_from_backtrace!
   # arbitrary gems may also be filtered via:
   # config.filter_gems_from_backtrace("gem name")
 end
