@@ -2,4 +2,5 @@
 *= require bootstrap-addon
 *= require pages
 *= require hidden_styles
+*= require_self
 */
