@@ -2,11 +2,13 @@
 <html>
 <head>
   <title>Admin Layout</title>
+
   <%= csrf_meta_tags %>
 </head>
 <body>
 
 <%= yield %>
-
+<%= stylesheet_link_tag "posts" %>
+<%= stylesheet_link_tag "admin" %>
 </body>
 </html>
