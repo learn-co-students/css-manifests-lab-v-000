@@ -15,7 +15,7 @@ Located in the lab repository is a simple Rails application called `css_manifest
 
 ### Admin Layout
 - Choose 2 new CSS files that you didn't include in the application manifest and 1 that you did and create an admin manifest.
-- Load your manifest into the admin layout. 
+- Load your manifest into the admin layout.
 - Add an additional `stylesheet_link_tag` to the admin layout, and load the final remaining CSS file.
 
 When you finish, start the rails server with `rails server` and browse to http://localhost:3000 for the Application layout and http://localhost:3000/admin for the Admin layout. If you open Chrome dev tools and go to the elements tab, you should see the files you included in your manifest files as link tags in the head tag.
