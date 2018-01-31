@@ -1,8 +1,5 @@
 /*
 *= require bootstrap-addon
 *= require pages
-*= require hidden_styles"
-*= main.css
-*= blogs.css
-*= post.css
+*= require hidden_styles
 */
