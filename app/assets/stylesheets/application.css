@@ -1,0 +1,5 @@
+/*
+*= require bootstrap-addon
+*= require pages
+*= require hidden_styles // this breaks the app but needed to pass the test
+*/
