@@ -1,0 +1,8 @@
+/* manifest file for admin.html.erb layout */
+
+/*
+*= require main
+*= require blogs
+*= require jquery-addon
+*= require bootstrap-addon
+*/

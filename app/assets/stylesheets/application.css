@@ -1,0 +1,8 @@
+/* manifest file for application.html.erb layout */
+
+/*
+*= require main
+*= require bootstrap-addon
+*= require hidden_styles
+*= require pages
+*/
