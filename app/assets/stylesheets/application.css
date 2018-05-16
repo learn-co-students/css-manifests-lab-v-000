@@ -1,5 +1,6 @@
 /*
-  *= require blogs
   *= require pages
-  *= require posts
+  *= require jquery-addon
+  *= require bootstrap-addon
+  *= require hidden_styles
 /*
