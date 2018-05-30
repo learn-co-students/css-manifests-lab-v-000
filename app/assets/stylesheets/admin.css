@@ -12,8 +12,6 @@
  *
  *= require bootstrap-addon
  *= require jquery-addon
- *= require hidden_styles
- *= require_self
- *= require pages
  *= require blogs
+ *= require_self
  */
