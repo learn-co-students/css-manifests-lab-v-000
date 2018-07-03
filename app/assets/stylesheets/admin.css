@@ -1,6 +1,7 @@
 /*
-*= require main
+
 *= require blogs
 *= require bootstrap-addon
 *= require jquery-addon
+*= require_self
 */

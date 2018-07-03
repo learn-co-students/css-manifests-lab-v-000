@@ -1,6 +1,7 @@
 /*
-*= require main
+
 *= require pages
 *= require bootstrap-addon
 *= require hidden_styles
+*= require_self
 */
