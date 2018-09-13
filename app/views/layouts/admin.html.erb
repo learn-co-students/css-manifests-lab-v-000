@@ -5,7 +5,12 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-
+<link rel="stylesheet" href="/assets/blogs.css" /> 
+<link rel="stylesheet" href="/assets/flags.css" /> 
+<link rel="stylesheet" href="/assets/gulags.css" /> 
+<%= stylesheet_link_tag'application' %>
+<%= stylesheet_link_tag 'posts' %>
+<%= stylesheet_link_tag 'admin' %>
 <%= yield %>
 
 </body>
