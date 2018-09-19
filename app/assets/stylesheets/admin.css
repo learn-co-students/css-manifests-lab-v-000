@@ -1,0 +1,13 @@
+
+/*
+/// CSS MANIFEST
+///2 new files(diff from those in application manifest)
+
+*= require jquery-addon 
+*= require bootstrap-addon
+
+///1 file thats also in the application manifest
+*= require blogs
+
+
+*/
