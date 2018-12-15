@@ -1,7 +1,11 @@
 /*
-
-*= require 'blogs'
-*= require 'pages'
-*= require 'posts'
-
+*= require pages
+*= require main
+*= require bootstrap-addon
+*= require hidden_styles
 */
+
+/* I'm requiring the main file but where is it? Just for the test? Should I have made this file? */
+/* How can posts be in layout but not in manifest? */
+/* where do bootstrap-addon and jquery-addon files come from? Should I be able to get this from studying other sources? */
+/* What is the point of the hidden_styles inclusion? */
