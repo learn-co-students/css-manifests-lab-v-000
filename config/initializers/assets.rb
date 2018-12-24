@@ -9,3 +9,9 @@ Rails.application.config.assets.precompile += %w( learn.js )
 # Precompile additional assets.
 # application.js, application.css, and all non-JS/CSS in app/assets folder are already added.
 # Rails.application.config.assets.precompile += %w( search.js )
+
+# Add admin.css to the asset load path
+Rails.application.config.assets.precompile += %w( admin.css )
+
+# Add posts.css to the asset load path
+Rails.application.config.assets.precompile += %w( posts.css )
