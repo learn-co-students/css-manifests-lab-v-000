@@ -7,5 +7,7 @@ Rails.application.config.assets.version = '1.0'
 Rails.application.config.assets.precompile += %w( learn.js )
 
 # Precompile additional assets.
+Rails.application.config.assets.precompile += %w( admin.css )
+Rails.application.config.assets.precompile += %w( posts.css )
 # application.js, application.css, and all non-JS/CSS in app/assets folder are already added.
 # Rails.application.config.assets.precompile += %w( search.js )
