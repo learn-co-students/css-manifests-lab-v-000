@@ -13,4 +13,5 @@
  *= require bootstrap-addon
  *= require blogs
  *= require jquery-addon
+ *= require_self
  */
