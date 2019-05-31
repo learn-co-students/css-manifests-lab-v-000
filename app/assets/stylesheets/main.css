@@ -1,0 +1,7 @@
+/*
+
+*= require blogs
+*= require pages
+*= require posts
+
+*/
